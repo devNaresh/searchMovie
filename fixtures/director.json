@@ -1,0 +1,1063 @@
+[{
+    "pk": 0,
+    "model": "search.director",
+    "fields": {
+        "name": "Victor Fleming"
+    }
+}, {
+    "pk": 1,
+    "model": "search.director",
+    "fields": {
+        "name": "George Lucas"
+    }
+}, {
+    "pk": 2,
+    "model": "search.director",
+    "fields": {
+        "name": "Giovanni Pastrone"
+    }
+}, {
+    "pk": 3,
+    "model": "search.director",
+    "fields": {
+        "name": "Alfred Hitchcock"
+    }
+}, {
+    "pk": 4,
+    "model": "search.director",
+    "fields": {
+        "name": "Merian C. Cooper"
+    }
+}, {
+    "pk": 5,
+    "model": "search.director",
+    "fields": {
+        "name": "Fritz Lang"
+    }
+}, {
+    "pk": 6,
+    "model": "search.director",
+    "fields": {
+        "name": "Marc Daniels"
+    }
+}, {
+    "pk": 7,
+    "model": "search.director",
+    "fields": {
+        "name": "Michael Curtiz"
+    }
+}, {
+    "pk": 8,
+    "model": "search.director",
+    "fields": {
+        "name": "William Cottrell"
+    }
+}, {
+    "pk": 9,
+    "model": "search.director",
+    "fields": {
+        "name": "Stanley Kubrick"
+    }
+}, {
+    "pk": 10,
+    "model": "search.director",
+    "fields": {
+        "name": "Francis Ford Coppola"
+    }
+}, {
+    "pk": 11,
+    "model": "search.director",
+    "fields": {
+        "name": "D.W. Griffith"
+    }
+}, {
+    "pk": 12,
+    "model": "search.director",
+    "fields": {
+        "name": "Steven Spielberg"
+    }
+}, {
+    "pk": 13,
+    "model": "search.director",
+    "fields": {
+        "name": "J. Searle Dawley"
+    }
+}, {
+    "pk": 14,
+    "model": "search.director",
+    "fields": {
+        "name": "Ernst Lubitsch"
+    }
+}, {
+    "pk": 15,
+    "model": "search.director",
+    "fields": {
+        "name": "John Ford"
+    }
+}, {
+    "pk": 16,
+    "model": "search.director",
+    "fields": {
+        "name": "Terence Young"
+    }
+}, {
+    "pk": 17,
+    "model": "search.director",
+    "fields": {
+        "name": "Orson Welles"
+    }
+}, {
+    "pk": 18,
+    "model": "search.director",
+    "fields": {
+        "name": "William Friedkin"
+    }
+}, {
+    "pk": 19,
+    "model": "search.director",
+    "fields": {
+        "name": "James Cameron"
+    }
+}, {
+    "pk": 20,
+    "model": "search.director",
+    "fields": {
+        "name": "Roman Polanski"
+    }
+}, {
+    "pk": 21,
+    "model": "search.director",
+    "fields": {
+        "name": "Sergei M. Eisenstein"
+    }
+}, {
+    "pk": 22,
+    "model": "search.director",
+    "fields": {
+        "name": "Irvin Kershner"
+    }
+}, {
+    "pk": 23,
+    "model": "search.director",
+    "fields": {
+        "name": "Harry O. Hoyt"
+    }
+}, {
+    "pk": 24,
+    "model": "search.director",
+    "fields": {
+        "name": "James Whale"
+    }
+}, {
+    "pk": 25,
+    "model": "search.director",
+    "fields": {
+        "name": "Lisa Simon"
+    }
+}, {
+    "pk": 26,
+    "model": "search.director",
+    "fields": {
+        "name": "Jean Renoir"
+    }
+}, {
+    "pk": 27,
+    "model": "search.director",
+    "fields": {
+        "name": "George A. Romero"
+    }
+}, {
+    "pk": 28,
+    "model": "search.director",
+    "fields": {
+        "name": "Larry Semon"
+    }
+}, {
+    "pk": 29,
+    "model": "search.director",
+    "fields": {
+        "name": "Maurice Tourneur"
+    }
+}, {
+    "pk": 30,
+    "model": "search.director",
+    "fields": {
+        "name": "James Parrott"
+    }
+}, {
+    "pk": 31,
+    "model": "search.director",
+    "fields": {
+        "name": "Martin Scorsese"
+    }
+}, {
+    "pk": 32,
+    "model": "search.director",
+    "fields": {
+        "name": "Sergio Leone"
+    }
+}, {
+    "pk": 33,
+    "model": "search.director",
+    "fields": {
+        "name": "Stanley Donen"
+    }
+}, {
+    "pk": 34,
+    "model": "search.director",
+    "fields": {
+        "name": "Elia Kazan"
+    }
+}, {
+    "pk": 35,
+    "model": "search.director",
+    "fields": {
+        "name": "Clyde Bruckman"
+    }
+}, {
+    "pk": 36,
+    "model": "search.director",
+    "fields": {
+        "name": "Ivan Reitman"
+    }
+}, {
+    "pk": 37,
+    "model": "search.director",
+    "fields": {
+        "name": "W.S. Van Dyke"
+    }
+}, {
+    "pk": 38,
+    "model": "search.director",
+    "fields": {
+        "name": "L. Frank Baum"
+    }
+}, {
+    "pk": 39,
+    "model": "search.director",
+    "fields": {
+        "name": "John Brahm"
+    }
+}, {
+    "pk": 40,
+    "model": "search.director",
+    "fields": {
+        "name": "Edwin S. Porter"
+    }
+}, {
+    "pk": 41,
+    "model": "search.director",
+    "fields": {
+        "name": "Guy Hamilton"
+    }
+}, {
+    "pk": 42,
+    "model": "search.director",
+    "fields": {
+        "name": "Federico Fellini"
+    }
+}, {
+    "pk": 43,
+    "model": "search.director",
+    "fields": {
+        "name": "Ridley Scott"
+    }
+}, {
+    "pk": 44,
+    "model": "search.director",
+    "fields": {
+        "name": "F.W. Murnau"
+    }
+}, {
+    "pk": 45,
+    "model": "search.director",
+    "fields": {
+        "name": "Brian De Palma"
+    }
+}, {
+    "pk": 46,
+    "model": "search.director",
+    "fields": {
+        "name": "John G. Avildsen"
+    }
+}, {
+    "pk": 47,
+    "model": "search.director",
+    "fields": {
+        "name": "Mark Kirkland"
+    }
+}, {
+    "pk": 48,
+    "model": "search.director",
+    "fields": {
+        "name": "Luis Bu1uel"
+    }
+}, {
+    "pk": 49,
+    "model": "search.director",
+    "fields": {
+        "name": "Tod Browning"
+    }
+}, {
+    "pk": 50,
+    "model": "search.director",
+    "fields": {
+        "name": "Ted Kotcheff"
+    }
+}, {
+    "pk": 51,
+    "model": "search.director",
+    "fields": {
+        "name": "Joseph Barbera"
+    }
+}, {
+    "pk": 52,
+    "model": "search.director",
+    "fields": {
+        "name": "Oscar Rudolph"
+    }
+}, {
+    "pk": 53,
+    "model": "search.director",
+    "fields": {
+        "name": "Mervyn LeRoy"
+    }
+}, {
+    "pk": 54,
+    "model": "search.director",
+    "fields": {
+        "name": "Robert Zemeckis"
+    }
+}, {
+    "pk": 55,
+    "model": "search.director",
+    "fields": {
+        "name": "John Boorman"
+    }
+}, {
+    "pk": 56,
+    "model": "search.director",
+    "fields": {
+        "name": "Edward F. Cline"
+    }
+}, {
+    "pk": 57,
+    "model": "search.director",
+    "fields": {
+        "name": "Tobe Hooper"
+    }
+}, {
+    "pk": 58,
+    "model": "search.director",
+    "fields": {
+        "name": "David Lean"
+    }
+}, {
+    "pk": 59,
+    "model": "search.director",
+    "fields": {
+        "name": "Frank Capra"
+    }
+}, {
+    "pk": 60,
+    "model": "search.director",
+    "fields": {
+        "name": "Steven Soderbergh"
+    }
+}, {
+    "pk": 61,
+    "model": "search.director",
+    "fields": {
+        "name": "Don Siegel"
+    }
+}, {
+    "pk": 62,
+    "model": "search.director",
+    "fields": {
+        "name": "George Cukor"
+    }
+}, {
+    "pk": 63,
+    "model": "search.director",
+    "fields": {
+        "name": "Samuel Armstrong"
+    }
+}, {
+    "pk": 64,
+    "model": "search.director",
+    "fields": {
+        "name": "James W. Horne"
+    }
+}, {
+    "pk": 65,
+    "model": "search.director",
+    "fields": {
+        "name": "William Wyler"
+    }
+}, {
+    "pk": 66,
+    "model": "search.director",
+    "fields": {
+        "name": "Quentin Tarantino"
+    }
+}, {
+    "pk": 67,
+    "model": "search.director",
+    "fields": {
+        "name": "John Cromwell"
+    }
+}, {
+    "pk": 68,
+    "model": "search.director",
+    "fields": {
+        "name": "Erich von Stroheim"
+    }
+}, {
+    "pk": 69,
+    "model": "search.director",
+    "fields": {
+        "name": "Jonathan Demme"
+    }
+}, {
+    "pk": 70,
+    "model": "search.director",
+    "fields": {
+        "name": "Charles Chaplin"
+    }
+}, {
+    "pk": 71,
+    "model": "search.director",
+    "fields": {
+        "name": "Kim Manners"
+    }
+}, {
+    "pk": 72,
+    "model": "search.director",
+    "fields": {
+        "name": "Joseph C. Terry"
+    }
+}, {
+    "pk": 73,
+    "model": "search.director",
+    "fields": {
+        "name": "Mike Nichols"
+    }
+}, {
+    "pk": 74,
+    "model": "search.director",
+    "fields": {
+        "name": "Henry Lehrman"
+    }
+}, {
+    "pk": 75,
+    "model": "search.director",
+    "fields": {
+        "name": "Andy Wachowski"
+    }
+}, {
+    "pk": 76,
+    "model": "search.director",
+    "fields": {
+        "name": "Wes Craven"
+    }
+}, {
+    "pk": 77,
+    "model": "search.director",
+    "fields": {
+        "name": "George Schaefer"
+    }
+}, {
+    "pk": 78,
+    "model": "search.director",
+    "fields": {
+        "name": "Robert Wise"
+    }
+}, {
+    "pk": 79,
+    "model": "search.director",
+    "fields": {
+        "name": "Jack Arnold"
+    }
+}, {
+    "pk": 80,
+    "model": "search.director",
+    "fields": {
+        "name": "James Algar"
+    }
+}, {
+    "pk": 81,
+    "model": "search.director",
+    "fields": {
+        "name": "Jerome Robbins"
+    }
+}, {
+    "pk": 82,
+    "model": "search.director",
+    "fields": {
+        "name": "Fred Zinnemann"
+    }
+}, {
+    "pk": 83,
+    "model": "search.director",
+    "fields": {
+        "name": "John Carpenter"
+    }
+}, {
+    "pk": 84,
+    "model": "search.director",
+    "fields": {
+        "name": "William Asher"
+    }
+}, {
+    "pk": 85,
+    "model": "search.director",
+    "fields": {
+        "name": "Karl Freund"
+    }
+}, {
+    "pk": 86,
+    "model": "search.director",
+    "fields": {
+        "name": "Robert Stevenson"
+    }
+}, {
+    "pk": 87,
+    "model": "search.director",
+    "fields": {
+        "name": "Richard Marquand"
+    }
+}, {
+    "pk": 88,
+    "model": "search.director",
+    "fields": {
+        "name": "Akira Kurosawa"
+    }
+}, {
+    "pk": 89,
+    "model": "search.director",
+    "fields": {
+        "name": "John Huston"
+    }
+}, {
+    "pk": 90,
+    "model": "search.director",
+    "fields": {
+        "name": "Phil Karlson"
+    }
+}, {
+    "pk": 91,
+    "model": "search.director",
+    "fields": {
+        "name": "Ishirccab Honda"
+    }
+}, {
+    "pk": 92,
+    "model": "search.director",
+    "fields": {
+        "name": "Winsor McCay"
+    }
+}, {
+    "pk": 93,
+    "model": "search.director",
+    "fields": {
+        "name": "Franklin J. Schaffner"
+    }
+}, {
+    "pk": 94,
+    "model": "search.director",
+    "fields": {
+        "name": "Frank Lloyd"
+    }
+}, {
+    "pk": 95,
+    "model": "search.director",
+    "fields": {
+        "name": "Lewis Milestone"
+    }
+}, {
+    "pk": 96,
+    "model": "search.director",
+    "fields": {
+        "name": "Carl Boese"
+    }
+}, {
+    "pk": 97,
+    "model": "search.director",
+    "fields": {
+        "name": "Gordon Douglas"
+    }
+}, {
+    "pk": 98,
+    "model": "search.director",
+    "fields": {
+        "name": "Leo McCarey"
+    }
+}, {
+    "pk": 99,
+    "model": "search.director",
+    "fields": {
+        "name": "Maya Deren"
+    }
+}, {
+    "pk": 100,
+    "model": "search.director",
+    "fields": {
+        "name": "Jerry Paris"
+    }
+}, {
+    "pk": 101,
+    "model": "search.director",
+    "fields": {
+        "name": "John Badham"
+    }
+}, {
+    "pk": 102,
+    "model": "search.director",
+    "fields": {
+        "name": "Douglas Camfield"
+    }
+}, {
+    "pk": 103,
+    "model": "search.director",
+    "fields": {
+        "name": "Nicholas Ray"
+    }
+}, {
+    "pk": 104,
+    "model": "search.director",
+    "fields": {
+        "name": "Richard Donner"
+    }
+}, {
+    "pk": 105,
+    "model": "search.director",
+    "fields": {
+        "name": "Peter Harris"
+    }
+}, {
+    "pk": 106,
+    "model": "search.director",
+    "fields": {
+        "name": "Norman Ferguson"
+    }
+}, {
+    "pk": 107,
+    "model": "search.director",
+    "fields": {
+        "name": "Arthur Lipsett"
+    }
+}, {
+    "pk": 108,
+    "model": "search.director",
+    "fields": {
+        "name": "Joy Batchelor"
+    }
+}, {
+    "pk": 109,
+    "model": "search.director",
+    "fields": {
+        "name": "Ray Enright"
+    }
+}, {
+    "pk": 110,
+    "model": "search.director",
+    "fields": {
+        "name": "George Stevens"
+    }
+}, {
+    "pk": 111,
+    "model": "search.director",
+    "fields": {
+        "name": "Kevin McCarthy"
+    }
+}, {
+    "pk": 112,
+    "model": "search.director",
+    "fields": {
+        "name": "Norman Tokar"
+    }
+}, {
+    "pk": 113,
+    "model": "search.director",
+    "fields": {
+        "name": "Arthur Penn"
+    }
+}, {
+    "pk": 114,
+    "model": "search.director",
+    "fields": {
+        "name": "Milos Forman"
+    }
+}, {
+    "pk": 115,
+    "model": "search.director",
+    "fields": {
+        "name": "Dave Wilson"
+    }
+}, {
+    "pk": 116,
+    "model": "search.director",
+    "fields": {
+        "name": "Roger Allers"
+    }
+}, {
+    "pk": 117,
+    "model": "search.director",
+    "fields": {
+        "name": "Walt Disney"
+    }
+}, {
+    "pk": 118,
+    "model": "search.director",
+    "fields": {
+        "name": "Rob Klug"
+    }
+}, {
+    "pk": 119,
+    "model": "search.director",
+    "fields": {
+        "name": "John McTiernan"
+    }
+}, {
+    "pk": 120,
+    "model": "search.director",
+    "fields": {
+        "name": "Otto Preminger"
+    }
+}, {
+    "pk": 121,
+    "model": "search.director",
+    "fields": {
+        "name": "Dennis Hopper"
+    }
+}, {
+    "pk": 122,
+    "model": "search.director",
+    "fields": {
+        "name": "Alain Resnais"
+    }
+}, {
+    "pk": 123,
+    "model": "search.director",
+    "fields": {
+        "name": "Walter Grauman"
+    }
+}, {
+    "pk": 124,
+    "model": "search.director",
+    "fields": {
+        "name": "Sam Raimi"
+    }
+}, {
+    "pk": 125,
+    "model": "search.director",
+    "fields": {
+        "name": "Bobby Quinn"
+    }
+}, {
+    "pk": 126,
+    "model": "search.director",
+    "fields": {
+        "name": "Tony Scott"
+    }
+}, {
+    "pk": 127,
+    "model": "search.director",
+    "fields": {
+        "name": "Lewis Gilbert"
+    }
+}, {
+    "pk": 128,
+    "model": "search.director",
+    "fields": {
+        "name": "Hollingsworth Morse"
+    }
+}, {
+    "pk": 129,
+    "model": "search.director",
+    "fields": {
+        "name": "Gerard Damiano"
+    }
+}, {
+    "pk": 130,
+    "model": "search.director",
+    "fields": {
+        "name": "Samuel Fuller"
+    }
+}, {
+    "pk": 131,
+    "model": "search.director",
+    "fields": {
+        "name": "Robert Clouse"
+    }
+}, {
+    "pk": 132,
+    "model": "search.director",
+    "fields": {
+        "name": "John Sturges"
+    }
+}, {
+    "pk": 133,
+    "model": "search.director",
+    "fields": {
+        "name": "Josef von Sternberg"
+    }
+}, {
+    "pk": 134,
+    "model": "search.director",
+    "fields": {
+        "name": "Edouard Molinaro"
+    }
+}, {
+    "pk": 135,
+    "model": "search.director",
+    "fields": {
+        "name": "Tim Burton"
+    }
+}, {
+    "pk": 136,
+    "model": "search.director",
+    "fields": {
+        "name": "Clyde Geronimi"
+    }
+}, {
+    "pk": 137,
+    "model": "search.director",
+    "fields": {
+        "name": "Lee Sholem"
+    }
+}, {
+    "pk": 138,
+    "model": "search.director",
+    "fields": {
+        "name": "Leni Riefenstahl"
+    }
+}, {
+    "pk": 139,
+    "model": "search.director",
+    "fields": {
+        "name": "Randal Kleiser"
+    }
+}, {
+    "pk": 140,
+    "model": "search.director",
+    "fields": {
+        "name": "Carol Reed"
+    }
+}, {
+    "pk": 141,
+    "model": "search.director",
+    "fields": {
+        "name": "Cecil B. DeMille"
+    }
+}, {
+    "pk": 142,
+    "model": "search.director",
+    "fields": {
+        "name": "Billy Wilder"
+    }
+}, {
+    "pk": 143,
+    "model": "search.director",
+    "fields": {
+        "name": "Sean S. Cunningham"
+    }
+}, {
+    "pk": 144,
+    "model": "search.director",
+    "fields": {
+        "name": "Clint Eastwood"
+    }
+}, {
+    "pk": 145,
+    "model": "search.director",
+    "fields": {
+        "name": "Cameron Crowe"
+    }
+}, {
+    "pk": 146,
+    "model": "search.director",
+    "fields": {
+        "name": "Bretaigne Windust"
+    }
+}, {
+    "pk": 147,
+    "model": "search.director",
+    "fields": {
+        "name": "Richard Fleischer"
+    }
+}, {
+    "pk": 148,
+    "model": "search.director",
+    "fields": {
+        "name": "George Roy Hill"
+    }
+}, {
+    "pk": 149,
+    "model": "search.director",
+    "fields": {
+        "name": "Bob Sweeney"
+    }
+}, {
+    "pk": 150,
+    "model": "search.director",
+    "fields": {
+        "name": "John Landis"
+    }
+}, {
+    "pk": 151,
+    "model": "search.director",
+    "fields": {
+        "name": "Bruce Gowers"
+    }
+}, {
+    "pk": 152,
+    "model": "search.director",
+    "fields": {
+        "name": "David Fincher"
+    }
+}, {
+    "pk": 153,
+    "model": "search.director",
+    "fields": {
+        "name": "Sam Peckinpah"
+    }
+}, {
+    "pk": 154,
+    "model": "search.director",
+    "fields": {
+        "name": "Peter Jackson"
+    }
+}, {
+    "pk": 155,
+    "model": "search.director",
+    "fields": {
+        "name": "Luis el"
+    }
+}, {
+    "pk": 156,
+    "model": "search.director",
+    "fields": {
+        "name": "Stanley Kramer"
+    }
+}, {
+    "pk": 157,
+    "model": "search.director",
+    "fields": {
+        "name": "Rob Reiner"
+    }
+}, {
+    "pk": 158,
+    "model": "search.director",
+    "fields": {
+        "name": "Anthony Mann"
+    }
+}, {
+    "pk": 159,
+    "model": "search.director",
+    "fields": {
+        "name": "Cliff Bole"
+    }
+}, {
+    "pk": 160,
+    "model": "search.director",
+    "fields": {
+        "name": "Charles S. Dubin"
+    }
+}, {
+    "pk": 161,
+    "model": "search.director",
+    "fields": {
+        "name": "Yevgeni Bauer"
+    }
+}, {
+    "pk": 162,
+    "model": "search.director",
+    "fields": {
+        "name": "Gregory J. Bonann"
+    }
+}, {
+    "pk": 163,
+    "model": "search.director",
+    "fields": {
+        "name": "Gerald Potterton"
+    }
+}, {
+    "pk": 164,
+    "model": "search.director",
+    "fields": {
+        "name": "Burt Gillett"
+    }
+}, {
+    "pk": 165,
+    "model": "search.director",
+    "fields": {
+        "name": "William A. Wellman"
+    }
+}, {
+    "pk": 166,
+    "model": "search.director",
+    "fields": {
+        "name": "Jim Sharman"
+    }
+}, {
+    "pk": 167,
+    "model": "search.director",
+    "fields": {
+        "name": "Barry Levinson"
+    }
+}, {
+    "pk": 168,
+    "model": "search.director",
+    "fields": {
+        "name": "Jean Vigo"
+    }
+}, {
+    "pk": 169,
+    "model": "search.director",
+    "fields": {
+        "name": "Ingmar Bergman"
+    }
+}, {
+    "pk": 170,
+    "model": "search.director",
+    "fields": {
+        "name": "William F. Claxton"
+    }
+}, {
+    "pk": 171,
+    "model": "search.director",
+    "fields": {
+        "name": "Adrian Lyne"
+    }
+}, {
+    "pk": 172,
+    "model": "search.director",
+    "fields": {
+        "name": "Edward L. Cahn"
+    }
+}, {
+    "pk": 173,
+    "model": "search.director",
+    "fields": {
+        "name": "John Moffitt"
+    }
+}, {
+    "pk": 174,
+    "model": "search.director",
+    "fields": {
+        "name": "John Nicolella"
+    }
+}, {
+    "pk": 175,
+    "model": "search.director",
+    "fields": {
+        "name": "Michael OHerlihy"
+    }
+}, {
+    "pk": 176,
+    "model": "search.director",
+    "fields": {
+        "name": "Dennis Donnelly"
+    }
+}]
